@@ -14,3 +14,7 @@ To start dev mode:👨🏻‍💻
 
 npm run start
 (it will open your default browser at http: // localhost: 8080 /)
+
+If you want to contact me for projects or collaborations please visit the following link and leave me a message.
+
+https://cutt.ly/Qubicks1985
